@@ -1,7 +1,7 @@
 payload:
 
 # 内容：中国流媒体列表整合
-# 更新：19.03.2022 19:13:55
+# 更新：21.03.2022 12:05:00
 # 包含 ACL4SSR 和 神机规则
 
     #ACL4SSR
@@ -116,6 +116,8 @@ payload:
   - DOMAIN-SUFFIX,dmhmusic.com
   
   # 补充
+  - DOMAIN-SUFFIX,api.vc.bilibili.com
+  - DOMAIN-SUFFIX,api.live.bilibili.com
   - DOMAIN-SUFFIX,acfun.cn
   - DOMAIN-SUFFIX,acfun.com
   - DOMAIN-SUFFIX,aixifan.com
