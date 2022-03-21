@@ -114,6 +114,8 @@
  DOMAIN-SUFFIX,dmhmusic.com
   
   # 补充
+ DOMAIN-SUFFIX,api.vc.bilibili.com
+ DOMAIN-SUFFIX,api.live.bilibili.com
  DOMAIN-SUFFIX,acfun.cn
  DOMAIN-SUFFIX,acfun.com
  DOMAIN-SUFFIX,aixifan.com
