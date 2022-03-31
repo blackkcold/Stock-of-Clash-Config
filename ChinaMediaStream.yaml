@@ -120,7 +120,6 @@ payload:
   - DOMAIN-KEYWORD,bilibili
   #- DOMAIN-SUFFIX,api.vc.bilibili.com
   #- DOMAIN-SUFFIX,api.live.bilibili.com
-
   #其他补充域名
   - DOMAIN-SUFFIX,acfun.cn
   - DOMAIN-SUFFIX,acfun.com
